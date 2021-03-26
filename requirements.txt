@@ -1,0 +1,45 @@
+astroid==2.4.2
+backcall==0.2.0
+certifi==2020.12.5
+click==7.1.2
+colorama==0.4.4
+decorator==4.4.2
+Flask==1.1.2
+gunicorn==20.0.4
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+isort==5.6.4
+itsdangerous==1.1.0
+jedi==0.17.2
+Jinja2==2.11.2
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+lazy-object-proxy==1.4.3
+MarkupSafe @ file:///D:/bld/markupsafe_1610127684851/work
+mccabe==0.6.1
+mkl-fft==1.0.6
+mkl-random==1.0.2
+mkl-service==2.3.0
+nb-conda-kernels @ file:///D:/bld/nb_conda_kernels_1606762736172/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1607448201973/work
+pandas @ file:///C:/ci/pandas_1611178643726/work
+parso==0.7.1
+pickleshare==0.7.5
+prompt-toolkit==3.0.8
+psycopg2 @ file:///D:/bld/psycopg2_1614021220096/work
+Pygments==2.7.2
+pylint==2.6.0
+python-dateutil==2.8.1
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+pywin32==300
+pyzmq==20.0.0
+six==1.15.0
+SQLAlchemy @ file:///C:/ci/sqlalchemy_1608225709355/work
+toml==0.10.2
+tornado==6.1
+traitlets==5.0.5
+wcwidth==0.2.5
+Werkzeug==1.0.1
+wincertstore==0.2
+wrapt==1.12.1
