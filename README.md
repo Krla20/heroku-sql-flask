@@ -5,7 +5,6 @@
 
 * Deploy github page: [UFO Sightings](https://krla20.github.io/javascript-challenge/)
 <hr>
-<p align="center"><img width="800" height= "300" src="UFO-level-2/static/images/changeimage.jpg"></p>
 
 * The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
@@ -22,9 +21,6 @@
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-<p align="center"><img width="450" height= "400" src="Images/datafound1.PNG"></p>
-        - If it's not a lucky day => No sightings on this date, try a new one...
-<p align="center"><img width="400" height= "400" src="Images/datanotfound.PNG"></p>
 <hr>
 
 ### Level 2: Multiple Search Categories (Optional)
@@ -38,7 +34,5 @@
   5. `shape`
 
 * You can filter all values at once: 
-<p align="center"><img width="800" height= "400" src="Images/data2handleall.PNG"></p>
         
 * You can filter only by 1 value:
-<p align="center"><img width="700" height= "400" src="Images/datafound2.PNG"></p>
