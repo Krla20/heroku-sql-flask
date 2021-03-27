@@ -38,7 +38,6 @@ jupyter-core==4.6.3
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 lazy-object-proxy==1.4.3
-mkl-random==1.0.2
 mkl-service==2.3.0
 nb-conda-kernels==2.3.1
 nbclient==0.5.1
